@@ -6,9 +6,9 @@
 [<img src="https://img.shields.io/badge/GrayScaleProcessing-A30701.svg?style=for-the-badge&logo=c&logoColor=white" width="400" height="80">](https://github.com/wodud6423/IoTIntelAISWC/tree/main/%EA%B0%9D%EC%B2%B4%26%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ColorScaleProcessing_Ver2.0_%EC%97%BC%EC%9E%AC%EC%98%81)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=80&duration=300&pause=1000&repeat=false&random=false&width=2000&height=200&lines=%E3%80%80;%E3%80%80%E3%80%802.+GrayScaleImageProcessing+by+Python)](https://git.io/typing-svg)
-[<img src="https://img.shields.io/badge/GrayScaleProcessing_SpinOff-231F20.svg?style=for-the-badge&logo=Python&logoColor=white" width="400" height="80">](https://github.com/wodud6423/IoTIntelAISWC/tree/main/GrayScaleProcessing_Version1.0)
+[<img src="https://img.shields.io/badge/GrayScaleProcessing_SpinOff-231F20.svg?style=for-the-badge&logo=Python&logoColor=white" width="400" height="80">](https://github.com/wodud6423/IoTIntelAISWC/tree/main/%EA%B0%9D%EC%B2%B4%26%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/GrayScaleImageProcessing_Ver1.0_SpinOff_%EC%97%BC%EC%9E%AC%EC%98%81)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Han+Sans&size=80&duration=300&pause=1000&repeat=false&random=false&width=2000&height=200&lines=%E3%80%80;%E3%80%80%E3%80%803.+ColorScaleImageProcessing+by+C%2B%2B)](https://git.io/typing-svg)
-[<img src="https://img.shields.io/badge/ColorImageProcessing-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" width="400" height="80">](https://github.com/wodud6423/IoTIntelAISWC/tree/main/ColorScaleProcessing_Version2.0_)
+[<img src="https://img.shields.io/badge/ColorImageProcessing-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" width="400" height="80">](https://github.com/wodud6423/IoTIntelAISWC/tree/main/%EA%B0%9D%EC%B2%B4%26%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/ColorScaleProcessing_Ver2.0_%EC%97%BC%EC%9E%AC%EC%98%81)
 
 
