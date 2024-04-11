@@ -1,0 +1,9 @@
+03:22:04.611225 Log continuation - Log started 2024-03-07T23:39:10.753157500Z
+03:53:36.200736 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:53:38.697035 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:53:43.024513 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:53:46.217431 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:53:54.583849 GUI: UIMediumEnumerator: Medium-enumeration finished!
+04:39:10.110975 
+04:39:10.110977 !!! rtR3WinUnhandledXcptFilter caught an exception on thread 0000000000003e4c in 2576 !!!
+04:39:10.111034 Log rotated - Log started 2024-03-07T23:39:10.753157500Z

@@ -1,0 +1,112 @@
+00:00:00.001654 main     VirtualBox COM Server 7.0.14 r161095 win.amd64 (Jan 15 2024 14:59:30) release log
+00:00:00.001655 main     Log opened 2024-03-22T00:16:41.702208000Z
+00:00:00.001656 main     Build Type: release
+00:00:00.001660 main     OS Product: Windows 11
+00:00:00.001660 main     OS Release: 10.0.22621
+00:00:00.001661 main     OS Service Pack: 
+00:00:00.041350 main     DMI Product Name: 400T8A/400S8A/400T9A/400S9A
+00:00:00.048138 main     DMI Product Version: CAAAAAAA
+00:00:00.048149 main     Firmware type: UEFI
+00:00:00.048419 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.048433 main     Host RAM: 32700MB (31.9GB) total, 27395MB (26.7GB) available
+00:00:00.048436 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.048436 main     Process ID: 6128
+00:00:00.048437 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.093277          VirtualBox: object creation starts
+00:00:00.093393          Home directory: 'C:\Users\IOT\.VirtualBox'
+00:00:00.093458          Installed Drivers:
+00:00:00.096692            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.0.14.11095)
+00:00:00.097462            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.0.14.11095)
+00:00:00.097970            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.0.14.11095)
+00:00:00.098710            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.0.14.11095)
+00:00:00.107992          Loading settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.110439          usbLibGetDevices: Starting USB device enumeration
+00:00:00.118403          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.142295          HostDnsMonitor: initializing
+00:00:00.146979          HostDnsMonitor: updating information
+00:00:00.146995          HostDnsMonitor: old information
+00:00:00.146996            no server entries
+00:00:00.146996            no domain set
+00:00:00.146997            no search string entries
+00:00:00.146997          HostDnsMonitor: new information
+00:00:00.146997            server 1: 8.8.8.8
+00:00:00.146998            no domain set
+00:00:00.146998            no search string entries
+00:00:00.192269          VD: VDInit finished with VINF_SUCCESS
+00:00:00.199410          Loading settings file "D:\가상머신\Windows10\Windows10\Windows10.vbox" with version "1.19-windows"
+00:00:00.205077          Loading settings file "D:\가상머신\Windows2022\Windows2022.vbox" with version "1.19-windows"
+00:00:00.210525          Loading settings file "D:\가상머신\Rocky9\Rocky9.vbox" with version "1.19-windows"
+00:00:00.215525          Loading settings file "D:\가상머신\Rocky9Test\Rocky9Test.vbox" with version "1.19-windows"
+00:00:00.220214          Loading settings file "D:\가상머신\Windows2016\Windows2016.vbox" with version "1.19-windows"
+00:00:00.225072          Loading settings file "D:\가상머신\RockyServer\RockyServer.vbox" with version "1.19-windows"
+00:00:00.225747          VirtualBox: object created
+00:00:00.277031          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.280620          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:00.281032          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.283287          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:00.283442          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.285558          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:01.119880          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:14.001130          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:14.007261          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:21.067531          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.071818          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:21.084196          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:21.611299          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.617406          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:21.627501          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:21.958393          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:21.964484          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:21.976389          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:22.627307          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:22.631609          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:22.641924          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:28.430384          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.436460          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:28.452947          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:29.076264          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:29.082282          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:29.096637          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:29.629285          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:29.635364          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:00:29.666980          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:42.808833          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:42.812181          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:01:42.822248          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:43.819803          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:43.822287          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:01:43.836076          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:54.879728          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:54.881694          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+00:01:54.892772          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:56.200690          Launched VM: 169121584 pid: 17240 (0x4358) frontend: GUI/Qt name: Rocky9
+00:01:56.228145          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:01.134043          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:01.525469          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:02:03.067025          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:03.482624          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Starting)}, preserve=false aResultDetail=0
+00:02:03.516983          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:02:04.422368          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:02:04.422663          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:02:04.473742          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+00:08:59.123769          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+01:09:58.351842          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={SessionMachine} aText={The machine is not mutable (state is Running)}, preserve=false aResultDetail=0
+08:31:52.911766          Saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+08:31:52.915223          Finished saving settings file "C:\Users\IOT\.VirtualBox\VirtualBox.xml"
+08:33:46.502208          Saving settings file "D:\가상머신\Rocky9\Rocky9.vbox" with version "1.19-windows"
+08:33:46.535492          Finished saving settings file "D:\가상머신\Rocky9\Rocky9.vbox"
+08:33:46.626265          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+08:33:48.062635          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={300763af-5d6b-46e6-aa96-273eac15538a} aComponent={MachineWrap} aText={The machine is not mutable (state is PoweredOff)}, preserve=false aResultDetail=0
+08:35:27.621141 main     VirtualBox: object deletion starts
+08:35:27.621379 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\Windows10\Windows10\Snapshots/{54c9c8e2-c07d-4a6f-9b7b-855f307d5f26}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.621819 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+08:35:27.621924 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\Windows2022\Snapshots/{8c5d7f45-b445-4ae1-b1ff-a543ccf234e7}.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.622248 main     ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={6cc49055-dad4-4496-85cf-3f76bcb3b5fa} aComponent={SnapshotWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+08:35:27.622339 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\Rocky9\Rocky02.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.622541 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\Rocky9Test\Rocky9Test.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.622724 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\Windows2016\Windows2016.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.622950 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'D:\가상머신\RockyServer\RockyServer.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+08:35:27.623648 main     HostDnsMonitor: shutting down ...
+08:35:27.623765 main     HostDnsMonitor: shut down
+08:35:27.626764 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={7682d5eb-f00e-44f1-8ca2-99d08b1cd607} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+08:35:27.626952 main     VirtualBox: object deleted
